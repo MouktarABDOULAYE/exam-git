@@ -1,0 +1,7 @@
+a) La commande git pull est légèrement différente de la commande git fetch. En fait, elle réalise deux actions à la suite: Git fetch Git merge [branche courante] [branche référent] Contrairement au git fetch, git pull vas modifier votre branche courante en la mergent avec sa référence du serveur distant.
+
+b) Revenir au commit précédent
+
+c) La suprimer sur le pc en local puis faire un pull request sur le serveur distant
+
+d) Pour voir l'historique des modification il faut utiliser git log associer du nom du fichier
